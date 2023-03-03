@@ -11,7 +11,7 @@
 Proyecto que integra tecnologias web para administración de sitios web responsive
 
 ### Programado por:
-Juan Camilo Ochoa Restrepov
+Juan Camilo Ochoa Restrepo
 
 En un navegador:
 `localhost:5500/index.html`
